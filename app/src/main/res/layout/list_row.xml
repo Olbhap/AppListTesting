@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/list_row_selector"
+                android:padding="8dp" >
+
+
+
+    <!-- Movie Title -->
+    <TextView
+        android:id="@+id/titulo_app"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/title"
+        android:textStyle="bold"
+        android:text="FACEBOOOOOOOOOK"/>
+
+    <!-- Thumbnail Image -->
+    <Button
+        android:id="@+id/boton_comprobar"
+        android:layout_width="170dp"
+        android:layout_height="80dp"
+        android:layout_below="@+id/titulo_app"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="Abrir Play"
+        android:layout_alignBottom="@+id/linearLayout"/>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_below="@+id/titulo_app"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:id="@+id/linearLayout"
+        android:layout_toRightOf="@+id/boton_comprobar"
+        android:layout_toEndOf="@+id/boton_comprobar">
+        <CheckBox
+            android:text="Aparece"
+            android:layout_marginLeft="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/check_aparece"/>
+        <CheckBox
+            android:text="Instala"
+            android:layout_marginLeft="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/check_instala"
+            />
+        <CheckBox
+            android:text="Funciona"
+            android:layout_marginLeft="50dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/check_funciona"
+            />
+    </LinearLayout>
+
+
+
+</RelativeLayout>
