@@ -9,6 +9,7 @@ import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,6 +26,11 @@ import com.energysistem.testapp.model.AppInfo;
 public class CustomListAdapter extends BaseAdapter {
     private Activity activity;
     private LayoutInflater inflater;
+
+    public List<AppInfo> getAppInfoList() {
+        return appInfoList;
+    }
+
     private List<AppInfo> appInfoList;
 
     public CustomListAdapter(Activity activity, List<AppInfo> appInfoList) {
@@ -72,28 +78,18 @@ public class CustomListAdapter extends BaseAdapter {
         check_aparece.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if(isChecked)
-                    m.setAparece(true);
-                else
-                    m.setAparece(false);
+                m.setAparece(isChecked);
 
             }
         });check_funciona.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if(isChecked)
-                    m.setFunciona(true);
-                else
-                    m.setFunciona(false);
-
+                m.setFunciona(isChecked);
             }
         });check_instala.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener() {
             @Override
             public void onCheckedChanged(CompoundButton buttonView, boolean isChecked) {
-                if(isChecked)
-                    m.setInstala(true);
-                else
-                    m.setInstala(false);
+               m.setInstala(isChecked);
             }
         });
 

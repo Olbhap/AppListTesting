@@ -1,0 +1,555 @@
+[{
+        "appName": "4shared",
+        "packageName": "com.forshared",
+        "aparece": false
+    },
+    {
+        "appName": "Abs workout - Caynax",
+        "packageName": "com.caynax.abs.ii",
+        "aparece": false
+    },
+    {
+        "appName": "Adobe Reader",
+        "packageName": "com.adobe.reader",
+        "aparece": false
+    },
+    {
+        "appName": "AdoptaUnTio",
+        "packageName": "com.adopteunmec.androides",
+        "aparece": false
+    },
+    {
+        "appName": "Google device admin",
+        "packageName": "com.google.android.apps.adm",
+        "aparece": false
+    },
+    {
+        "appName": "AdoptaUnTio",
+        "packageName": "com.adopteunmec.androides",
+        "aparece": false
+    },
+    {
+        "appName": "Amazon",
+        "packageName": "com.amazon.mShop.android.shopping",
+        "aparece": false
+    },
+    {
+        "appName": "Angry birds",
+        "packageName": "com.rovio.angrybirds",
+        "aparece": false
+    },
+    {
+        "appName": "Apalabrados",
+        "packageName": "com.etermax.apalabrados.lite",
+        "aparece": false
+    },
+    {
+        "appName": "AS",
+        "packageName": "es.mmip.prisacom.as",
+        "aparece": false
+    },
+    {
+        "appName": "Ask.fm",
+        "packageName": "com.askfm",
+        "aparece": false
+    },
+    {
+        "appName": "AtresPlayer",
+        "packageName": "com.a3.sgt",
+        "aparece": false
+    },
+    {
+        "appName": "Atriviate",
+        "packageName": "aul.irm.triviados",
+        "aparece": false
+    },
+    {
+        "appName": "AVG",
+        "packageName": "com.antivirus",
+        "aparece": false
+    },
+    {
+        "appName": "Badoo",
+        "packageName": "com.badoo.mobile",
+        "aparece": false
+    },
+    {
+        "appName": "BancSabadell",
+        "packageName": "net.inverline.bancosabadell.officelocator.android",
+        "aparece": false
+    },
+    {
+        "appName": "Bankia",
+        "packageName": "es.cm.android",
+        "aparece": false
+    },
+    {
+        "appName": "BBVA | España",
+        "packageName": "com.bbva.bbvacontigo",
+        "aparece": false
+    },
+    {
+        "appName": "BBVA Wallet",
+        "packageName": "com.bbva.bbvawallet",
+        "aparece": false
+    },
+    {
+        "appName": "Booking.com",
+        "packageName": "com.booking",
+        "aparece": false
+    },
+    {
+        "appName": "Brave frontier RPG",
+        "packageName": "com.gumieurope.bravefrontier",
+        "aparece": false
+    },
+    {
+        "appName": "BurgerKing",
+        "packageName": "es.burgerking.android",
+        "aparece": false
+    },
+    {
+        "appName": "Candy Rush",
+        "packageName": "com.king.candycrushsaga",
+        "aparece": false
+    },
+    {
+        "appName": "Clan",
+        "packageName": "com.rtve.clan",
+        "aparece": false
+    },
+    {
+        "appName": "Clash of clans",
+        "packageName": "com.supercell.clashofclans",
+        "aparece": false
+    },
+    {
+        "appName": "Clean Master",
+        "packageName": "com.cleanmaster.mguard",
+        "aparece": false
+    },
+    {
+        "appName": "Comunio",
+        "packageName": "de.herrenabend_sport_verein.comuniodroid",
+        "aparece": false
+    },
+    {
+        "appName": "Don't tap the white",
+        "packageName": "com.umonistudio.tile",
+        "aparece": false
+    },
+    {
+        "appName": "Dropbox",
+        "packageName": "com.dropbox.android",
+        "aparece": false
+    },
+    {
+        "appName": "Duolinguo",
+        "packageName": "com.duolingo",
+        "aparece": false
+    },
+    {
+        "appName": "eBay",
+        "packageName": "com.ebay.mobile",
+        "aparece": false
+    },
+    {
+        "appName": "El mundo",
+        "packageName": "com.gi.elmundo.main",
+        "aparece": false
+    },
+    {
+        "appName": "El Pais",
+        "packageName": "com.elpais.elpais",
+        "aparece": false
+    },
+    {
+        "appName": "Electric-Screen Live",
+        "packageName": "pl.infinzmedia.electricscreenfree",
+        "aparece": false
+    },
+    {
+        "appName": "Endomondo",
+        "packageName": "com.endomondo.android",
+        "aparece": false
+    },
+    {
+        "appName": "Facebook",
+        "packageName": "com.facebook.katana",
+        "aparece": false
+    },
+    {
+        "appName": "Messenger",
+        "packageName": "com.facebook.orca",
+        "aparece": false
+    },
+    {
+        "appName": "Administrador de páginas",
+        "packageName": "com.facebook.pages.app",
+        "aparece": false
+    },
+    {
+        "appName": "ES Explorador de Archivos",
+        "packageName": "com.estrongs.android.pop",
+        "aparece": false
+    },
+    {
+        "appName": "Flipagram",
+        "packageName": "com.cheerfulinc.flipagram",
+        "aparece": false
+    },
+    {
+        "appName": "FlipBoard",
+        "packageName": "com.endomondo.android",
+        "aparece": false
+    },
+    {
+        "appName": "fotocasa.es",
+        "packageName": "com.anuntis.fotocasa",
+        "aparece": false
+    },
+    {
+        "appName": "Fruit ninja",
+        "packageName": "com.halfbrick.fruitninjafree",
+        "aparece": false
+    },
+    {
+        "appName": "Geometry Dash Lite",
+        "packageName": "com.robtopx.geometryjumplite",
+        "aparece": false
+    },
+    {
+        "appName": "Google earth",
+        "packageName": "com.google.earth",
+        "aparece": false
+    },
+    {
+        "appName": "Hill Climb Racing",
+        "packageName": "com.fingersoft.hillclimb",
+        "aparece": false
+    },
+    {
+        "appName": "Hungry Shark Evolution",
+        "packageName": "com.fgol.HungrySharkEvolution",
+        "aparece": false
+    },
+    {
+        "appName": "Idealista",
+        "packageName": "com.idealista.android",
+        "aparece": false
+    },
+    {
+        "appName": "InfoJobs",
+        "packageName": "net.infojobs.mobile.android",
+        "aparece": false
+    },
+    {
+        "appName": "Ing España",
+        "packageName": "www.ingdirect.nativeframe",
+        "aparece": false
+    },
+    {
+        "appName": "Instagram",
+        "packageName": "com.instagram.android",
+        "aparece": false
+    },
+    {
+        "appName": "Instasize",
+        "packageName": "com.jsdev.instasize",
+        "aparece": false
+    },
+    {
+        "appName": "La caixa",
+        "packageName": "es.lacaixa.mobile.android.newwapicon",
+        "aparece": false
+    },
+    {
+        "appName": "Liga de futbol profesional",
+        "packageName": "es.lfp.gi.main",
+        "aparece": false
+    },
+    {
+        "appName": "Line",
+        "packageName": "jp.naver.line.android",
+        "aparece": false
+    },
+    {
+        "appName": "LinkedIn",
+        "packageName": "com.linkedin.android",
+        "aparece": false
+    },
+    {
+        "appName": "LOVOO",
+        "packageName": "net.lovoo.android",
+        "aparece": false
+    },
+    {
+        "appName": "MapFactor: GPS Navigation",
+        "packageName": "com.mapfactor.navigator",
+        "aparece": false
+    },
+    {
+        "appName": "Marca",
+        "packageName": "com.iphonedroid.marca",
+        "aparece": false
+    },
+    {
+        "appName": "Meetic",
+        "packageName": "net.ilius.android.meetic",
+        "aparece": false
+    },
+    {
+        "appName": "Mi movistar",
+        "packageName": "com.movistar.android.mimovistar.es",
+        "aparece": false
+    },
+    {
+        "appName": "Mi Orange",
+        "packageName": "com.orange.miorange",
+        "aparece": false
+    },
+    {
+        "appName": "ReproductorMX",
+        "packageName": "com.mxtech.videoplayer.ad",
+        "aparece": false
+    },
+    {
+        "appName": "OfficeSuite",
+        "packageName": "com.mobisystems.office",
+        "aparece": false
+    },
+    {
+        "appName": "Outlook",
+        "packageName": "com.microsoft.office.outlook",
+        "aparece": false
+    },
+    {
+        "appName": "Paypal",
+        "packageName": "com.paypal.android.p2pmobile",
+        "aparece": false
+    },
+    {
+        "appName": "Piano tiles",
+        "packageName": "com.sabzira.PianoTiles",
+        "aparece": false
+    },
+    {
+        "appName": "PicsArt",
+        "packageName": "com.picsart.studio",
+        "aparece": false
+    },
+    {
+        "appName": "Pinterest",
+        "packageName": "com.pinterest",
+        "aparece": false
+    },
+    {
+        "appName": "pisos.com",
+        "packageName": "com.vocento.pisos",
+        "aparece": false
+    },
+    {
+        "appName": "Pou",
+        "packageName": "me.pou.app",
+        "aparece": false
+    },
+    {
+        "appName": "Pull&Bear",
+        "packageName": "com.inditex.pullandbear",
+        "aparece": false
+    },
+    {
+        "appName": "Renfe",
+        "packageName": "com.renfe.wsm",
+        "aparece": false
+    },
+    {
+        "appName": "Retrica",
+        "packageName": "com.venticake.retrica",
+        "aparece": false
+    },
+    {
+        "appName": "rtve",
+        "packageName": "com.rtve.actualidaddos",
+        "aparece": false
+    },
+    {
+        "appName": "Runkeeper",
+        "packageName": "com.fitnesskeeper.runkeeper.pro",
+        "aparece": false
+    },
+    {
+        "appName": "Runtastic",
+        "packageName": "com.runtastic.android",
+        "aparece": false
+    },
+    {
+        "appName": "Santander",
+        "packageName": "es.bancosantander.apps",
+        "aparece": false
+    },
+    {
+        "appName": "Segundamano.es",
+        "packageName": "com.anuntis.segundamano",
+        "aparece": false
+    },
+    {
+        "appName": "Lets Luk",
+        "packageName": "SeriesLy - Lets Luk",
+        "aparece": false
+    },
+    {
+        "appName": "Shazam",
+        "packageName": "com.shazam.android",
+        "aparece": false
+    },
+    {
+        "appName": "Skype",
+        "packageName": "com.skype.raider",
+        "aparece": false
+    },
+    {
+        "appName": "Vuelos - Skyscaner",
+        "packageName": "net.skyscanner.android.main",
+        "aparece": false
+    },
+    {
+        "appName": "Slots",
+        "packageName": "com.cervomedia.spw",
+        "aparece": false
+    },
+    {
+        "appName": "SnapChat",
+        "packageName": "com.snapchat.android",
+        "aparece": false
+    },
+    {
+        "appName": "SoundCloud",
+        "packageName": "com.soundcloud.android",
+        "aparece": false
+    },
+    {
+        "appName": "CamSam - Detector de radares",
+        "packageName": "com.camsam",
+        "aparece": false
+    },
+    {
+        "appName": "Splive TV",
+        "packageName": "sps.live.xmls.es",
+        "aparece": false
+    },
+    {
+        "appName": "Spotify",
+        "packageName": "com.spotify.music",
+        "aparece": false
+    },
+    {
+        "appName": "Linterna - Super-Bright LED FlashLight ",
+        "packageName": "com.surpax.ledflashlight.panel",
+        "aparece": false
+    },
+    {
+        "appName": "Swiftkey keyboard",
+        "packageName": "Teclado SwiftKey + Emoji",
+        "aparece": false
+    },
+    {
+        "appName": "Sygic",
+        "packageName": "com.sygic.aura",
+        "aparece": false
+    },
+    {
+        "appName": "Talking Ginger",
+        "packageName": "com.outfit7.talkinggingerfree",
+        "aparece": false
+    },
+    {
+        "appName": "Tango",
+        "packageName": "com.sgiggle.production",
+        "aparece": false
+    },
+    {
+        "appName": "Tapatalk",
+        "packageName": "com.quoord.tapatalkpro.activity",
+        "aparece": false
+    },
+    {
+        "appName": "Telegram",
+        "packageName": "org.telegram.messenger",
+        "aparece": false
+    },
+    {
+        "appName": "The SIMS FreePlay",
+        "packageName": "com.ea.games.simsfreeplay_row",
+        "aparece": false
+    },
+    {
+        "appName": "Toilet and bathroom rush",
+        "packageName": "com.tongwei.toiletGame",
+        "aparece": false
+    },
+    {
+        "appName": "Trovit",
+        "packageName": "com.trovit.android.apps.jobs",
+        "aparece": false
+    },
+    {
+        "appName": "Tuenti",
+        "packageName": "com.tuenti.messenger",
+        "aparece": false
+    },
+    {
+        "appName": "Twiter",
+        "packageName": "com.twitter.android",
+        "aparece": false
+    },
+    {
+        "appName": "UNO and friends",
+        "packageName": "com.gameloft.android.ANMP.GloftUOHM",
+        "aparece": false
+    },
+    {
+        "appName": "VIber",
+        "packageName": "com.viber.voip",
+        "aparece": false
+    },
+    {
+        "appName": "Vine",
+        "packageName": "co.vine.android",
+        "aparece": false
+    },
+    {
+        "appName": "Wallapop",
+        "packageName": "com.wallapop",
+        "aparece": false
+    },
+    {
+        "appName": "El Tiempo 14 días",
+        "packageName": "aplicacion.tiempo",
+        "aparece": false
+    },
+    {
+        "appName": "WhatsApp Messenger",
+        "packageName": "com.whatsapp",
+        "aparece": false
+    },
+    {
+        "appName": "Yahoo",
+        "packageName": "com.yahoo.mobile.client.android.yahoo",
+        "aparece": false
+    },
+    {
+        "appName": "Yomvi",
+        "packageName": "es.plus.yomvi",
+        "aparece": false
+    },
+    {
+        "appName": "Zedge",
+        "packageName": "net.zedge.android",
+        "aparece": false
+    },
+    {
+        "appName": "Android Wear",
+        "packageName": "com.google.android.wearable.app",
+        "aparece": false
+    }]
